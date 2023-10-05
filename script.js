@@ -2,7 +2,6 @@ const addTaskButton = document.getElementById('addTask');
 const dltAllTaskButton = document.getElementById('dltAllTask');
 const addTaskInput = document.getElementById('taskInput');
 const addTaskList = document.getElementById('taskList');
-var cont = 0;
 addTaskButton.style.backgroundColor = 'green';
 addTaskButton.style.borderRadius = '10px';
 
